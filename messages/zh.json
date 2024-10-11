@@ -5,7 +5,7 @@
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "ZeroDimension"
     },
     "Hero": {
       "title": "终极剧本创作工作平台",
@@ -36,12 +36,12 @@
       "testimonial1": {
         "name": "Sarah Johnson",
         "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "content": "ZeroDimension彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
       },
       "testimonial2": {
         "name": "Michael Lee",
         "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "content": "ZeroDimension的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
@@ -75,7 +75,7 @@
     },
     "ProductShowcase": {
       "title": "场景by场景，精心打造您的故事",
-      "imageAlt": "ScriptCraft界面"
+      "imageAlt": "ZeroDimension界面"
     }
   },
   "Dashboard": {
